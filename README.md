@@ -33,16 +33,16 @@ https://t.me/OE_OUTAGE_CHAT
 ```jsonc
 {
   "regionId": "Zhytomyr",
-  "lastUpdated": "2025-12-08T06:54:55.423Z", <-- Дата та час останнього парсингу (UTC, ISO8601)
+  "lastUpdated": "2025-12-08T06:54:55.423Z", //<-- Дата та час останнього парсингу (UTC, ISO8601)
   "fact": {
     "data": {
-      "1765144800": { <--Ключ — Unix timestamp (Europe/Kyiv), дата графіку відключень
+      "1765144800": { //<--Ключ — Unix timestamp (Europe/Kyiv), дата графіку відключень
         "GPV1.1": {},
         "GPV6.2": {}
       }
     },
-    "update": "08.12.2025 08:30", <-- Час оновлення у локальній зоні (Europe/Kyiv)
-    "today": 1765144800 <-- Timestamp поточного дня (Europe/Kyiv)
+    "update": "08.12.2025 08:30", //<-- Час оновлення у локальній зоні (Europe/Kyiv)
+    "today": 1765144800 //<-- Timestamp поточного дня (Europe/Kyiv)
   }
 }
 ```
