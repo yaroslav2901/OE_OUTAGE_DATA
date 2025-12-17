@@ -1,9 +1,9 @@
 {
   "regionId": "Khmelnytskoblenerho",
-  "lastUpdated": "2025-12-17T08:07:19.304Z",
+  "lastUpdated": "2025-12-17T22:04:37.126Z",
   "fact": {
     "data": {
-      "1765922400": {
+      "1766008800": {
         "GPV1.1": {
           "1": "yes",
           "2": "yes",
@@ -318,8 +318,8 @@
         }
       }
     },
-    "update": "17.12.2025 10:07",
-    "today": 1765922400
+    "update": "18.12.2025 00:04",
+    "today": 1766008800
   },
   "preset": {
     "time_zone": {
