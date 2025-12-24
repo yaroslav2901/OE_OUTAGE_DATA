@@ -1,6 +1,6 @@
 {
   "regionId": "Khmelnytskoblenerho",
-  "lastUpdated": "2025-12-24T19:51:47.633Z",
+  "lastUpdated": "2025-12-24T20:58:39.686Z",
   "fact": {
     "data": {
       "1766527200": {
@@ -632,7 +632,7 @@
         }
       }
     },
-    "update": "24.12.2025 21:51",
+    "update": "24.12.2025 22:58",
     "today": 1766527200
   },
   "preset": {
