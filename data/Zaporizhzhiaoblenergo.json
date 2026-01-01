@@ -1,6 +1,6 @@
 {
   "regionId": "Zaporizhzhia",
-  "lastUpdated": "2026-01-01T12:17:25.002Z",
+  "lastUpdated": "2026-01-01T12:22:35.374Z",
   "fact": {
     "data": {
       "1767218400": {
@@ -189,8 +189,8 @@
         "GPV4.2": {
           "1": "no",
           "2": "no",
-          "3": "first",
-          "4": "yes",
+          "3": "no",
+          "4": "first",
           "5": "yes",
           "6": "yes",
           "7": "yes",
