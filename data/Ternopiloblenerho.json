@@ -1,10 +1,10 @@
 {
   "regionId": "Ternopil",
-  "lastUpdated": "2026-01-02T22:04:53.877Z",
+  "lastUpdated": "2026-01-03T22:04:31.501Z",
   "fact": {
     "data": {},
     "update": "02.01.2026 08:05",
-    "today": 1767391200
+    "today": 1767477600
   },
   "preset": {
     "time_zone": {
