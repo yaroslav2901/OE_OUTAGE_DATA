@@ -1,6 +1,6 @@
 {
     "regionId": "Chernihivoblenergo",
-    "lastUpdated": "2026-01-30T22:04:35.306Z",
+    "lastUpdated": "2026-01-31T06:07:38.877Z",
     "fact": {
         "data": {
             "1769810400": {
@@ -318,7 +318,7 @@
                 }
             }
         },
-        "update": "31.01.2026 00:04",
+        "update": "31.01.2026 08:07",
         "today": 1769810400
     },
     "preset": {
