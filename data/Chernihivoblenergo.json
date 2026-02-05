@@ -1,6 +1,6 @@
 {
   "regionId": "Chernihivoblenergo",
-  "lastUpdated": "2026-02-05T10:22:21.493171Z",
+  "lastUpdated": "2026-02-05T10:22:34.980117Z",
   "fact": {
     "data": {
       "1770242400": {
@@ -118,9 +118,9 @@
           "7": "no",
           "8": "no",
           "9": "no",
-          "10": "msecond",
-          "11": "yes",
-          "12": "yes",
+          "10": "no",
+          "11": "no",
+          "12": "no",
           "13": "yes",
           "14": "yes",
           "15": "mfirst",
