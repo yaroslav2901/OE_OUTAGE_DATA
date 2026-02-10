@@ -67,13 +67,13 @@
 
 ### ⚡ Доступні інтеграції
 
-#### 🔌 Svitlo Live  
-👤 Розробник: @chaichuk  
-🔗 https://github.com/chaichuk/svitlo_live
-
 #### 🔌 ha-svitlo-yeah  
-👤 Розробник: @ALERTua  
+👤 Розробник: [ALERTua](https://github.com/ALERTua)  
 🔗 https://github.com/ALERTua/ha-svitlo-yeah
+
+#### 🔌 Svitlo Live  
+👤 Розробник: [chaichuk](https://github.com/chaichuk)  
+🔗 https://github.com/chaichuk/svitlo_live
 
 ---
 
