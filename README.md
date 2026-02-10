@@ -12,7 +12,7 @@
 
 ### Актуальні дані про відключення:  
 - **Черкасиобленерго**
-- ~~**Чернігівобленерго**~~
+- **Чернігівобленерго**
 - **Хмельницькобленерго**
 - **Харківобленерго**
 - **Львівобленерго**
@@ -60,6 +60,22 @@
 Дякую! 🇺🇦⚡️
 
 --- 
+
+## 🏠 Інтеграції з Home Assistant
+
+[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5?style=for-the-badge&logo=home-assistant)](https://www.home-assistant.io/)
+
+### ⚡ Доступні інтеграції
+
+#### 🔌 Svitlo Live  
+👤 Розробник: @chaichuk  
+🔗 https://github.com/chaichuk/svitlo_live
+
+#### 🔌 ha-svitlo-yeah  
+👤 Розробник: @ALERTua  
+🔗 https://github.com/ALERTua/ha-svitlo-yeah
+
+---
 
 ## 🔄 Як працює система
 
