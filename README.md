@@ -116,4 +116,12 @@ OE_OUTAGE_DATA/
 ```
 ---
 
+## 🤝 Community & Credits
+
+Дякуємо розробникам Home Assistant інтеграцій, які використовують дані OE_OUTAGE_DATA:
+- [chaichuk](https://github.com/chaichuk) — Svitlo Live
+- [ALERTua](https://github.com/ALERTua)   — ha-svitlo-yeah
+
+---
+
 ## 🙌 Дякуємо за використання OE_OUTAGE_DATA!
