@@ -61,6 +61,16 @@
 
 --- 
 
+## 🤖 Telegram-інтеграції
+
+Дані з **OE_OUTAGE_DATA** також використовуються в Telegram-ботах для оперативних сповіщень про графіки відключень електроенергії.
+
+#### ⚡ DTEK Schedule Power Out Sender Bot  
+🤖 Бот: [@DtekSchedulePowerOutSenderBot](https://t.me/DtekSchedulePowerOutSenderBot)  
+👤 Розробник: [@2ruslan](https://github.com/2ruslan)
+
+---
+
 ## 🏠 Інтеграції з Home Assistant
 
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5?style=for-the-badge&logo=home-assistant)](https://www.home-assistant.io/)
