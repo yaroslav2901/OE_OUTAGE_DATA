@@ -1,6 +1,6 @@
 {
   "regionId": "Poltava",
-  "lastUpdated": "2026-03-15T16:36:28.127Z",
+  "lastUpdated": "2026-03-16T05:00:25.927Z",
   "fact": {
     "data": {
       "1773612000": {
@@ -319,7 +319,7 @@
       }
     },
     "update": "15.03.2026 18:36",
-    "today": 1773525600
+    "today": 1773612000
   },
   "preset": {
     "time_zone": {
