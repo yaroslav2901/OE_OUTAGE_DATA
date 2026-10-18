@@ -36,7 +36,7 @@
 Ми створили окрему Telegram-групу для технічних обговорень: парсингу, генерації графіків, Home Assistant інтеграцій, Telegram-ботів, API та покращень системи.
 
 👉 **Приєднуйтесь до спільноти:**  
-[![Telegram](https://img.shields.io/badge/Telegram-Приєднатися-blue?style=for-the-badge&logo=telegram)](https://t.me/OE_OUTAGE_CHAT)
+[![Telegram](https://img.shields.io/badge/Telegram-Приєднатися-blue?style=for-the-badge&logo=telegram)](https://t.me/OUTAGE_CHAT)
 
 ---
 
