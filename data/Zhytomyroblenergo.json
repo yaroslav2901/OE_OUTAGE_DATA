@@ -1,11 +1,11 @@
 {
   "regionId": "Zhytomyr",
-  "lastUpdated": "2026-11-20T09:24:05.639Z",
+  "lastUpdated": "2026-11-20T09:29:12.528Z",
   "fact": {
     "data": {
       "1795125600": {
         "GPV1.1": {
-          "1": "second",
+          "1": "no",
           "2": "no",
           "3": "no",
           "4": "first",
