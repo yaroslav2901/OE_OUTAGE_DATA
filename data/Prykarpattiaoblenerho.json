@@ -1,6 +1,6 @@
 {
   "regionId": "Ivano-Frankivsk",
-  "lastUpdated": "2026-11-23T20:03:43.082Z",
+  "lastUpdated": "2026-11-23T20:07:34.530Z",
   "fact": {
     "data": {
       "1795392000": {
@@ -632,7 +632,7 @@
         }
       }
     },
-    "update": "23.11.2026 22:02",
+    "update": "23.11.2026 22:07",
     "today": 1795392000
   },
   "preset": {
