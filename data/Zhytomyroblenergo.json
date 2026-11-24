@@ -1,6 +1,6 @@
 {
   "regionId": "Zhytomyr",
-  "lastUpdated": "2026-11-24T04:11:03.381Z",
+  "lastUpdated": "2026-11-24T04:16:04.350Z",
   "fact": {
     "data": {
       "1795471200": {
@@ -35,7 +35,7 @@
           "2": "yes",
           "3": "yes",
           "4": "yes",
-          "5": "second",
+          "5": "yes",
           "6": "no",
           "7": "no",
           "8": "no",
