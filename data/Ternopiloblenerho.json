@@ -1,6 +1,6 @@
 {
   "regionId": "Ternopil",
-  "lastUpdated": "2026-11-25T11:38:17.195Z",
+  "lastUpdated": "2026-11-25T12:18:51.237Z",
   "fact": {
     "data": {
       "1795557600": {
@@ -45,7 +45,7 @@
           "12": "msecond",
           "13": "msecond",
           "14": "yes",
-          "15": "mfirst",
+          "15": "msecond",
           "16": "msecond",
           "17": "yes",
           "18": "yes",
@@ -149,7 +149,7 @@
           "12": "yes",
           "13": "yes",
           "14": "yes",
-          "15": "mfirst",
+          "15": "msecond",
           "16": "no",
           "17": "msecond",
           "18": "yes",
@@ -227,7 +227,7 @@
           "12": "yes",
           "13": "yes",
           "14": "yes",
-          "15": "mfirst",
+          "15": "msecond",
           "16": "no",
           "17": "msecond",
           "18": "yes",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "update": "25.11.2026 13:38",
+    "update": "25.11.2026 14:18",
     "today": 1795557600
   },
   "preset": {
